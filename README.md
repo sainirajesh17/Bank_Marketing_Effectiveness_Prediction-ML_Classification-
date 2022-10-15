@@ -56,12 +56,19 @@ Use machine learning techniques to predict the marketing campaign outcome and to
 ## <h2><b>Conclusion</h2></b>
   
 The 2nd quarter of the year has the highest number of subscriptions & Month of May has the maximum subscriptions.
+
 Blue-collar, management and technician showed maximum interest in subscription.
+
 Compared to married and single, Divorced people have less interest in term deposits.
+
 People with secondary education followed by tertiary education were subscribed to term deposit.
+
 Generally people who don't have credit in default are interested in a deposit. Majority of the people have a home loan but only few of them opted for a term deposit.
+
 Cellular communication is seen as more effective in comparison to other communication types.
+
 The calls with large duration have more tendency for conversion. Majority of people were not contacted previously before this campaign.
-We can choose Support Vector Machine or KNN or Decision Tree to predict Effectiveness as all 3 of them are showing the same accuracy & F1- Score - (0.8824).
+
+We can choose Support Vector Machine or KNN or Decision Tree to predict Effectiveness as all 3 of them are showing the same accuracy & F1- <b>Score - (0.8824).</b>
 
 
