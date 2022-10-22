@@ -7,8 +7,8 @@
 #### Team Members are: Rajesh kumar, Kunika Gupta, Prayagraj Dubey
 
 #### Links:  
-Project Presentation: [Slideshow](https://drive.google.com/file/d/1HFd9jKPJBAGv-kOcDQg7HAqhuAMd0T4k/view?usp=sharing)
-Dataset: [Bike Sharing Demand Prediction](https://drive.google.com/file/d/1A81TMIl0oe2G3SQ8zpT0AFJJtsZ26KAj/view?usp=sharing)
+Project Presentation: [Slideshow](https://drive.google.com/file/d/1jsAtibvo_A7BqSqAJkkjKXCO2uoNGYgV/view?usp=sharing)
+Dataset: [Bike Sharing Demand Prediction](https://drive.google.com/file/d/1X9KYE5AUgKMMVN_T6K_CfC67PGWy-UGD/view?usp=sharing)
 
 <h2><b>Problem Statement:</h2></b>
 
