@@ -8,7 +8,7 @@
 
 #### Links:  
 Project Presentation: [Slideshow](https://drive.google.com/file/d/1jsAtibvo_A7BqSqAJkkjKXCO2uoNGYgV/view?usp=sharing)
-Dataset: [Bike Sharing Demand Prediction](https://drive.google.com/file/d/1X9KYE5AUgKMMVN_T6K_CfC67PGWy-UGD/view?usp=sharing)
+Dataset: [Bank Marketing Effectiveness Prediction](https://drive.google.com/file/d/1X9KYE5AUgKMMVN_T6K_CfC67PGWy-UGD/view?usp=sharing)
 
 <h2><b>Problem Statement:</h2></b>
 
