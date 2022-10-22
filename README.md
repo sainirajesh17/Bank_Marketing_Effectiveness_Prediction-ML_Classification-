@@ -69,6 +69,6 @@ Cellular communication is seen as more effective in comparison to other communic
 
 The calls with large duration have more tendency for conversion. Majority of people were not contacted previously before this campaign.
 
-We can choose Support Vector Machine or KNN or Decision Tree to predict Effectiveness as all 3 of them are showing the same accuracy & F1- <b>Score - (0.8824).</b>
+We can choose "KNN" or "Decision Tree" to predict Effectiveness as both of them are showing same accuracy of 88% & F1- Score of (0.8824).</b>
 
 
